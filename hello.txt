@@ -1,3 +1,5 @@
 hello codeastro
 
 made a change
+
+add a conflict
