@@ -2,4 +2,4 @@ hello codeastro
 
 made a change
 
-make a conflict
+fix the conflict
